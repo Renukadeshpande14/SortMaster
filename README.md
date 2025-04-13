@@ -7,7 +7,7 @@ A visualization tool for various sorting algorithms implemented in Python. See h
 
 ## Demo:
 
-![Demo Gif](_Captures/gif.gif)
+(_Captures/gif.gif)
 
 
 ## Features
